@@ -1,0 +1,2 @@
+El programa **no usa ninguna librería externa**, pero por convención puedes incluir la versión de Python recomendada:
+python==3.10
